@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.task{
+    border: none;
+   
+}
+.task:focus-visible{
+    outline:none;
+}
